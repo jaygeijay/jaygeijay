@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Italy
 * ✉️  You can contact me at [isidoro.allegretti@outlook.com](mailto:isidoro.allegretti@outlook.com)
-* 🧠  I'm learning React, Angular, Dart
+* 🧠  I'm learning React, Dart
 
 ### Skills
 
